@@ -1,0 +1,79 @@
+span {
+    color: tomato;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    margin: 10%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.healthy-food {
+    display: flex;
+    line-height: 25px;
+}
+
+.herself {
+    display: flex;
+    text-align: center;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+
+button {
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#recipe {
+    text-align: center;
+}
+
+#center {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.recipe-title {
+    display: flex;
+}
+
+.margin {
+    margin: 1%;
+    border: 5px solid wheat;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.followers {
+    display: flex;
+    border: 10px solid whitesmoke;
+    line-height: 5px;
+
+}
+
+.margin2 {
+    margin: 2%;
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+footer {
+    text-align: center;
+}
